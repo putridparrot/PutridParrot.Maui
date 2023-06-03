@@ -1,5 +1,12 @@
 # PutridParrot.Maui
 
+[![Build PutridParrot.Maui](https://github.com/putridparrot/PutridParrot.Maui/actions/workflows/build.yml/badge.svg)](https://github.com/putridparrot/PutridParrot.Maui/actions/workflows/build.yml)
+[![NuGet version (PutridParrot.Maui)](https://img.shields.io/nuget/v/PutridParrot.Maui.svg?style=flat-square)](https://www.nuget.org/packages/PutridParrot.Maui/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/putridparrot/PutridParrot.Maui/blob/master/LICENSE.md)
+[![GitHub Releases](https://img.shields.io/github/release/putridparrot/PutridParrot.Maui.svg)](https://github.com/putridparrot/PutridParrot.Maui/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/putridparrot/PutridParrot.Maui.svg)](https://github.com/putridparrot/PutridParrot.Maui/issues)
+
+
 A package for MAUI specific code.
 
 ## BindableCollection 
